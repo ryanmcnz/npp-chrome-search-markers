@@ -1,5 +1,7 @@
-npp-chrome-search-markers
-=========================
+# Notepad++ - Chrome Search Markers
 
-Notepad++ - Chrome Search Markers harnesses the Notepad++ plugin API for C#.NET. 
-Users can easily find search results within a file by viewing markers next to the scrollbar for each result.
+A plugin for Notepad++ that displays markers next to the scrollbar for search results.
+
+![](https://raw.githubusercontent.com/ryanmcnz/npp-chrome-search-markers/master/screenshot.jpg)
+
+This project uses the Notepad++ plugin API for C#.NET.
